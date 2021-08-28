@@ -1,13 +1,15 @@
 # Base-de-datos-desarrollada-para-analizar-23.771-conjuntos-de-datos-y-poder-organizarlo
 
-A continuación poder ver el diseño de el diseño entidad relación
+<h1> A continuación poder ver el diseño de el diseño entidad relación </h1>
 
 
 <img src="der_dataset-Page-1.svg">
 
+
 <h1>Aquí el diseño físico de la base de datos </h1>
 
 <img src="fisico_dataset.svg">
+
 
  <h1> Finalmente los conjuntos de datos. </h1>
 
