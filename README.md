@@ -1,5 +1,7 @@
 # Base-de-datos-desarrollada-para-analizar-23.771-conjuntos-de-datos-y-poder-organizarlo
 
+Se ha realizado una búsqueda de datasets en función de los temas que anteriormente se han definido, tanto en inglés como español. Los sitios de los que se han extraído los conjuntos de datos son Kaggle, Google Dataset Search y World Bank Open Data. Cada dataset incluido en la muestra trae consigo un título, el tipo de dato en el que se exporta el archivo, el link, la fecha de última actualización, el tema y el idioma.
+
 <h1> A continuación poder ver el diseño de el diseño entidad relación </h1>
 
 
